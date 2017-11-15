@@ -28,6 +28,6 @@ defaults:
     path: ''
     type: people
   values:
-    ost: 'tjenare'
+    upload image: ''
 
 permalink: pretty
