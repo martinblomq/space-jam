@@ -24,4 +24,10 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: people
+  values:
+    ost: 'tjenare'
+
 permalink: pretty
