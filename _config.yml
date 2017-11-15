@@ -29,5 +29,6 @@ defaults:
     type: people
   values:
     ost: tjenare
+    upload image: tjenare
 
 permalink: pretty
