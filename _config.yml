@@ -5,7 +5,6 @@ collections:
   people:
     title: People
     output: true
-    permalink: asd
   posts:
     title: Posts
     output: true
@@ -30,5 +29,4 @@ defaults:
   values:
     ost: tjenare
     upload image: tjenare
-
 permalink: pretty
