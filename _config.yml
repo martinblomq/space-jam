@@ -28,6 +28,5 @@ defaults:
     path: ''
     type: people
   values:
-    ost: 'tjenare'
-
+    ost: tjenare
 permalink: pretty
